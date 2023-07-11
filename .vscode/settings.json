@@ -1,3 +1,5 @@
 {
-    "notebook.compactView": false
+    "notebook.compactView": true,
+    "notebook.consolidatedOutputButton": false,
+    "notebook.editorOptionsCustomizations": {}
 }
